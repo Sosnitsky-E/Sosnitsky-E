@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elena</h1>
-<h3 align="center">QA Automation Engineer</h3>
+<h3 align="center">QA Engineer</h3>
 
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/elena-sosnitsky-3480bb109/">
