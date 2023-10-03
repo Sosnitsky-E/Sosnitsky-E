@@ -17,10 +17,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sosnitsky-E" alt="elena-s" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sosnitsky-E&show_icons=true&locale=en" alt="elena-s" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sosnitsky-E&show_icons=true&locale=en" alt="elena-s" /></p>
 
 
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100"/>
  </div>
  
