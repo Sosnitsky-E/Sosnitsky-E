@@ -20,7 +20,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sosnitsky-E&show_icons=true&locale=en" alt="elena-s" /></p>
 
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100"/>
  </div>
  
