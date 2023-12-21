@@ -2,7 +2,7 @@
 <h3 align="center">QA Engineer</h3>
 
 
-<h3 align="center">Connect with me: <a href="https://www.linkedin.com/in/elena-sosnitsky-3480bb109/">
+<h3 align="center">Connect with me: <a href="https://www.linkedin.com/in/elena-s-3480bb109/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a></h3>
 <p align="left">
