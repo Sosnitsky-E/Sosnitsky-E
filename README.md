@@ -29,15 +29,6 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sosnitsky-E&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sosnitsky-E&show_icons=true&locale=en" />
-</p>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="120"/>
 </p>
